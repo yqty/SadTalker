@@ -1,3 +1,5 @@
+      Open In Colab   Hugging Face Spaces   sd webui-colab   Replicate
+
 😭 SadTalker：用于定制化音频驱动的单图像脸部动画的真实 3D 运动系数学习
 🔥 稳定扩散 webui的扩展现已上线。点击此处查看更多详情。
 🔥 全图像模式已上线！点击此处查看更多详情。
