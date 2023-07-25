@@ -13,7 +13,7 @@
   
 </div>
 <br>
-<i><strong><a href='https://arxiv.org/abs/2211.12194' target='_blank'>CVPR 2023</a></strong></i>
+
 <br>
 <br>
 
